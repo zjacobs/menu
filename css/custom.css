@@ -6,6 +6,10 @@ body {
     display:block;
     margin:0 auto;
 }
+#MOBeef,#Homemade {
+    height:75%;
+    width:75%;
+}
 #cow,#pig,#chicken,#bison,#lamb,#pepper {
     height:10%;
     width:10%;
