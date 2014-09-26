@@ -6,7 +6,7 @@ body {
     display:block;
     margin:0 auto;
 }
-#beef,#pig,#chicken,#bison,#lamb,#pepper {
+#cow,#pig,#chicken,#bison,#lamb,#pepper {
     height:10%;
     width:10%;
 }
