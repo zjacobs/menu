@@ -49,4 +49,6 @@ body {
 #range {
     display:block;
     margin:0 auto;
+    height:15%;
+    width:200%;
 }
