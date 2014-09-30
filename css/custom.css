@@ -43,3 +43,10 @@ body {
     height:5%;
     width:5%;
 }
+
+
+
+#range {
+    display:block;
+    margin:0 auto;
+}
