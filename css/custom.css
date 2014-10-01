@@ -43,6 +43,9 @@ body {
     height:5%;
     width:5%;
 }
+#sides, #battle, #week, #fries {
+    text-align:center;
+}
 
 
 
