@@ -55,6 +55,13 @@ body {
     height:100px;
     width:200px;
 }
+#carousel-example-generic {
+    color:white;
+}
+#item, #item-active {
+    display:block;
+    margin:0 auto;
+}
 
 
 
