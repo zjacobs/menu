@@ -58,7 +58,7 @@ body {
 #carousel-example-generic {
     color:white;
 }
-#item {
+.item {
     display:block;
     margin:0 auto;
 }
