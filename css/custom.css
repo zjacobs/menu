@@ -58,9 +58,10 @@ body {
 #carousel-example-generic {
     color:white;
 }
-.item {
+div.item {
     display:block;
-    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
