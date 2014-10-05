@@ -64,6 +64,10 @@ body {
     margin-right: auto;
 }
 
+#map {
+    text-align:center;
+}
+
 
 
 #media {
