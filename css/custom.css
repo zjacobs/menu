@@ -68,6 +68,9 @@ body {
     text-align:center;
 }
 
+div.address, div.phone, div.hours {
+    text-align:center;
+}
 
 
 #media {
