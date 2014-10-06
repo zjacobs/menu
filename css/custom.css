@@ -76,3 +76,7 @@ div.address, div.phone, div.hours {
 #media {
     text-align:center;
 }
+
+div.bubbles {
+    text-align:center;
+}
