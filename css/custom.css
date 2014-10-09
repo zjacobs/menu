@@ -80,6 +80,9 @@ div.location {
 div.address, div.phone, div.hours {
     text-align:center;
 }
+#contact {
+    background-color: #FFFFCC;
+}
 
 
 #media {
