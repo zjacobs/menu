@@ -20,13 +20,16 @@ body {
     text-align:center;
 }
 
-#Dave's, #American, #Wildfire, #Jamn, #Popper, #Melt, #LGBT {
- font-family:"Pacifico", cursive;   
-}
 #cows {
     height:5%;
     width:5%;
 }
+
+#Dave's, #American, #Wildfire, #Jamn, #Popper, #Melt, #LGBT {
+ font-family:"Pacifico", cursive;   
+}
+
+
 #pigs {
     height:5%;
     width:5%;
