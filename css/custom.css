@@ -4,6 +4,7 @@ body {
 }
 #snacks {
     text-align:center;
+    font-family:"Courier New", Courier, monospace;
 }
 #MOBeef,#Homemade {
     height:75%;
