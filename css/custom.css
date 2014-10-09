@@ -50,6 +50,7 @@ body {
 }
 #sides, #battle, #week, #fries {
     text-align:center;
+    font-family:"Courier New", Courier, monospace;
 }
 
 
