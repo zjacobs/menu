@@ -76,6 +76,11 @@ div.location {
 #location {
     background-color: #FFFFCC;
 }
+#logo {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
 
 div.address, div.phone, div.hours {
     text-align:center;
